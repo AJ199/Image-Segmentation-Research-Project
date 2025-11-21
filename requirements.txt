@@ -1,0 +1,12 @@
+torch>=1.12.0
+torchvision>=0.13.0
+opencv-python
+numpy
+pyyaml
+tqdm
+Pillow
+matplotlib
+scipy
+# Detectron2: install matching to your torch version (see detectron2 docs)
+# Example (for CUDA 11.7 / torch 1.13): pip install detectron2 -f https://dl.fbaipublicfiles.com/detectron2/wheels/cu117/torch1.13/index.html
+# If you can't use GPU, use CPU build or adapt training batch sizes.
