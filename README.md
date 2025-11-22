@@ -2,7 +2,7 @@
 
 Image segmentation research project implementing **Mask R-CNN**, **PSPNet**, and an **MST-based spectral matting** approach.
 
-This repository accompanies the research work documented in `Image Segmentation Research Paper.pdf` and provides reference implementations and experiments for comparing these three segmentation methods.
+This repository accompanies the research work documented in Image Segmentation Research Paper.pdf and provides reference implementations and experiments for comparing these three segmentation methods.
 
 ---
 
